@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(245, 221, 144);
+}
+
+div {
+    background-color: rgb(200, 149, 230);
+    border-radius: 10px;
+}
+}
+
+h1 {
+    font-size: 20px;
+}
+
+
+a {
+    color: black;
+}
